@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+73f651acc3db284b56c9fe3755b1339f2cac8d43 refs/remotes/origin/add-tests
+4e3e3635ddcab56d33821bcfac2f177caa1b5243 refs/remotes/origin/add_fixture
+82bb0b1fb9fdcd41c083ef0050825049060b1e0f refs/remotes/origin/django-taxi-service-home-page
+89908716e0d42a84521a697de129d05adb3c291b refs/remotes/origin/fix-manufacturer-model
+d3d3d611e9fe69185959ad85ae3043b8a83eb5f0 refs/remotes/origin/master
+57b43d77b699ec3440e79dbc411c1dfeb3f45ce1 refs/remotes/origin/sidebar-task-add
